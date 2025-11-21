@@ -32,6 +32,7 @@ Blink Count	Action
 3 blinks	- (dash)
 4 blinks	Decode Morse character
 5 blinks	Switch to CONTROL mode
+<6 blinks Reset Led Interface
 Control Mode
 Blink Count	ESP32 Action
 2 blinks	Stop (S)
